@@ -1,0 +1,36 @@
+# Node.js dependencies
+/node_modules
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Build and dist files
+/dist
+/build
+
+# Dependency directories
+yarn-debug.log*
+yarn-error.log*
+
+# npm package lock file
+package-lock.json
+
+# Coverage directory for testing
+/coverage
+
+# Uploads directory (if you don't want to track uploaded files)
+uploads/
+
+# VSCode workspace settings
+.vscode/
+
+# Other files to ignore
+*.swp
+*.swo
